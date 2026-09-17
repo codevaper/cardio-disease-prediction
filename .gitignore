@@ -1,0 +1,16 @@
+# Data files
+*.csv
+
+# Keep cleaned versions
+!spotify_clean.csv
+!spotify_tracks.csv
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
