@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cardiovascular Disease Prediction
 
 ## Problem
@@ -41,3 +42,6 @@ Top Predictive Feature: **[fill in]**
 
 ## Tools
 Python, Pandas, Seaborn, Scikit-learn, Joblib
+=======
+# cardio-disease-prediction
+>>>>>>> 00b16e46c03512a8c0d2b01eedab418de4d31c66
