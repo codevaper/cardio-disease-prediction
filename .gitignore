@@ -1,36 +1,18 @@
 # Virtual environment
 venv/
 env/
-ENV/
 .venv
 
 # Python cache
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-.Python
 
-# Jupyter Notebook checkpoints
+# Jupyter
 .ipynb_checkpoints/
 
 # VS Code
 .vscode/
-tempCodeRunnerFile.py
 
-# OS files
+# OS
 .DS_Store
 Thumbs.db
-
-# Large raw data (uncomment if cardio_train.csv is >100MB)
-# cardio_train.csv
-
-# IDE
-.idea/
-.spyderproject
-.ropeproject
-
-# Distribution / packaging
-build/
-dist/
-*.egg-info/
